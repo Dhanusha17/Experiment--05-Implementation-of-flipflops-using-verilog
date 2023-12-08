@@ -112,14 +112,44 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: 
 RegisterNumber:  
 */
+## SR
+![image](https://github.com/Dhanusha17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151549957/b291bdde-5f81-4571-b07e-c26a46114732)
 
+## JK
+![image](https://github.com/Dhanusha17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151549957/35645448-0b41-4380-a709-6c256e2234e6)
 
+## D
+![image](https://github.com/Dhanusha17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151549957/79d43d17-00d6-41b7-ab04-2dc0ecae808d)
 
-
-
+## T
+![image](https://github.com/Dhanusha17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151549957/4dd657d4-8586-4ad8-9e19-cba22c22c0d6)
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+### SR
+![image](https://github.com/Dhanusha17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151549957/9900549c-152a-423b-beb1-32f9adc825da)
+
+### JK
+![image](https://github.com/Dhanusha17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151549957/3f92e346-0c50-421a-9548-054cbbab6e3d)
+
+### D
+![image](https://github.com/Dhanusha17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151549957/a6c781c8-4794-4b4e-b352-cf531d3e508a)
+
+### T
+![image](https://github.com/Dhanusha17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151549957/3a095ae0-eb85-41df-bb5e-6bd23249465e)
+
+## OUTPUT
+## SR
+![image](https://github.com/Dhanusha17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151549957/93fae779-fd9a-454e-8f8a-7b4e20b71a68)
+
+## JK
+![image](https://github.com/Dhanusha17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151549957/b868b928-4de3-4321-a8d6-1bbb5e923114)
+
+## D
+![image](https://github.com/Dhanusha17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151549957/3ca8e645-51be-42ee-94de-950d67527293)
+
+## T
+![image](https://github.com/Dhanusha17/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151549957/9c754ac3-bd6e-4366-9419-f321bded3a8a)
 
 
 
